@@ -4,11 +4,17 @@
 
 # Local Development
 
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
-`python manage.py migrate`
+```bash
+python manage.py migrate
+```
 
-`python manage.py runserver`
+```bash
+python manage.py runserver
+```
 
 ---
 
