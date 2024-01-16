@@ -50,7 +50,7 @@ python manage.py runserver
 
 ## Testing Report
 
-- https://github.com/animemoeus/cuddly-fortnight/issues/5
+- [Click Here](https://github.com/animemoeus/cuddly-fortnight/issues/5)
 
 ---
 
